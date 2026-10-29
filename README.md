@@ -29,4 +29,4 @@ Este repositório será atualizado com coleções do Postman, casos de teste, ev
 
 ## 🚧 Status do projeto
 
-**Em desenvolvimento — QA
+**Em desenvolvimento — QA em formação**
